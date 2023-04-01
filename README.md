@@ -1,6 +1,10 @@
+# TOM0907
+
 ### Hi there 👋
 
-# ME WHEN I SEE WELL STRUCTURED YAML:
+Kubernetes | Docker | DevSecOps | Python | Bare-metal server service
+
+### ME WHEN I SEE WELL STRUCTURED YAML:
 ![CP2077](https://media.tenor.com/sgVTmEeu-hgAAAAC/wake-up-samurai-keanu-reeves.gif)
 
 <!--
