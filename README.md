@@ -1,7 +1,7 @@
 # TOM0907
 
 <div id="badges">
-  <a href="linkedin.com/in/tomáš-kormaník">
+  <a href="https://linkedin.com/in/tomáš-kormaník">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!--
