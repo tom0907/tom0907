@@ -16,7 +16,7 @@
 
 ### Hi there 👋
 
-Kubernetes | Docker | DevSecOps | Python | Bare-metal server service
+Kubernetes | Docker | DevSecOps | Python
 
 ### ME WHEN I SEE WELL STRUCTURED YAML:
 ![CP2077](https://media.tenor.com/sgVTmEeu-hgAAAAC/wake-up-samurai-keanu-reeves.gif)
